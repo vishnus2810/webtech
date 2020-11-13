@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+   <xs:element name = "schedule">
+      <xs:complexType>
+         <xs:sequence>
+            <xs:element name = "patientname" type = "xs:string" />
+            <xs:element name = "patientemail" type = "xs:string" />
+            <xs:element name = "doctorname" type = "xs:string" />
+            <xs:element name = "department" type = "xs:string" />
+            <xs:element name = "date" type = "xs:string" />
+            <xs:element name = "phone" type = "xs:int" />
+            <xs:element name = "message" type = "xs:string" />
+         </xs:sequence>
+      </xs:complexType>
+   </xs:element>
+</xs:schema>

@@ -1,6 +1,7 @@
 # HOSPITAL APPOINTMENT BOOKING USING ANGULAR JS
 
 TCE WEB TECHNOLOGGY 2020
+#TEAM CONNOISSEUR
 
 ## Getting Started
 Following these instructions will allow you to run and build the project on your local machine for development and testing purposes.
@@ -13,10 +14,10 @@ Install an VS Code, Angular JS version 1.8.x
 
 ## Platform Used
 
-* HTML5
-* CSS3
-* Angular JS
-* Bootstrap
+(i) HTML5
+(ii) CSS3
+(iii)  Angular JS
+(iv) Bootstrap
 
 ## Key Features
 
@@ -43,5 +44,5 @@ There are also many more feature which are not in the list. Feel free to use thi
 ## Set Up
 Angular JS 1.8.x is used for this project. You can download it from here... https://angularjs.org/
 
-## References
+##References
 https://docs.angularjs.org/guide
